@@ -42,6 +42,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 
 6 deactivate tensorflow
+
 (terminal cmd input:)
 (tensorflow) ➜  ~ source deactivate
 
