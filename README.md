@@ -48,3 +48,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 (tensorflow) ➜  ~ source deactivate
 
 ➜  ~
+
+
+![Image text](https://github.com/erfengwelink/learning_tensorflow/img_floder/1.png)
