@@ -51,7 +51,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ➜  ~
 
 
-![Image text](https://github.com/erfengwelink/learning_tensorflow/tree/master/img_floder/1.png)
+![github](https://github.com/erfengwelink/learning_tensorflow/tree/master/img_floder/1.png)
 
 Illustration:
 ![Image text](https://github.com/erfengwelink/learning_tensorflow/tree/master/img_floder/2.png)
