@@ -51,6 +51,9 @@ Type "help", "copyright", "credits" or "license" for more information.
 ➜  ~
 
 
+**next U'd follow my folder "tutorial_codes"'s codes to test/exercise**
+
+
 ![image](https://github.com/erfengwelink/learning_tensorflow/tree/master/img_floder/1.png)
 
 Illustration:
