@@ -1,8 +1,9 @@
-**# learning_tensorflow**
+# learning_tensorflow
+========================
 
 using platform: MACOS
 
-**#1 install anconda2 from https://www.anaconda.com/download/#macos
+**#1 install anconda2 from https://www.anaconda.com/download/#macos**
 
 **#2 Installing tensorflow with Anaconda**
 
