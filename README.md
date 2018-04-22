@@ -1,20 +1,20 @@
-# learning_tensorflow
+**# learning_tensorflow
 
 using platform: MACOS
 
-#1 install anconda2 from https://www.anaconda.com/download/#macos
+**#1 install anconda2 from https://www.anaconda.com/download/#macos
 
-#2 Installing tensorflow with Anaconda
+**#2 Installing tensorflow with Anaconda
 
 (terminal cmd input:)
 $ conda create -n tensorflow pip python=2.7
 
-#3 activate tensorflow:
+**#3 activate tensorflow:
 
 (terminal cmd input:)
 $ source activate tensorflow
 
-#4 Issue a command of the following format to install TensorFlow inside your conda environment:
+**#4 Issue a command of the following format to install TensorFlow inside your conda environment:
 
 (terminal cmd input:)
 $ pip install --ignore-installed --upgrade \
