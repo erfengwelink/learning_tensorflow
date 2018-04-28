@@ -58,3 +58,5 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 Illustration:
 ![Image text](https://github.com/erfengwelink/learning_tensorflow/tree/master/img_floder/2.png)
+
+magic code:44ab4ab3b4e74df5193e88805e5c2d5e268716f0
